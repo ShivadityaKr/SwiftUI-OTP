@@ -1,6 +1,3 @@
-Here's the complete `README.md` file for your SwiftUI OTP project, including the provided code for `ContentView.swift`:
-
----
 
 # SwiftUI OTP
 
